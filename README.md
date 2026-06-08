@@ -1,0 +1,1 @@
+A dashboard that analyzes twitch performances, giving authentic userfeedback based off their metrics.
