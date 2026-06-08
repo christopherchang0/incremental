@@ -4,6 +4,6 @@ A dashboard that analyzes twitch performances, giving authentic userfeedback bas
     - https://dev.twitch.tv/docs/api/
 
 
-## Tech Stacl:
+## Tech Stack:
     - Frontend: React, Tailwind
     - Backend: Python, Supabase, Firebase, Tableau, Airtable, Matplotlib, Seaborn
