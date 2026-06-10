@@ -5,5 +5,6 @@ A dashboard that analyzes twitch performances, giving authentic userfeedback bas
 
 
 ## Tech Stack:
-    - Frontend: React, Tailwind
-    - Backend: Python, Supabase, Firebase, Tableau, Airtable, Matplotlib, Seaborn
+    - Frontend: React, Tailwind, Tableau (embedded)
+    - Backend: Python, Supabase, FirebaseMatplotlib, Seaborn, Airtable
+    
