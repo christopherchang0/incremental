@@ -9,4 +9,6 @@ Purpose: Streamers on Twitch may lack a competent understanding of their own ran
 ## Tech Stack:
     - Frontend: React, Tailwind, Tableau (embedded)
     - Backend: Python, Supabase, FirebaseMatplotlib, Seaborn, Airtable
+
+UI/Ux: Figma
     
